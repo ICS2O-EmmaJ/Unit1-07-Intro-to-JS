@@ -1,1 +1,1 @@
-# Unit1-07-Intro-to-JS
+[![GitHub's Super Linter](https://github.com/ICS2O-EmmaJ/Unit1-07-Intro-to-JS/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-EmmaJ/Unit1-07-Intro-to-JS/actions)
